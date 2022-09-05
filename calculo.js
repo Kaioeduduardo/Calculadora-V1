@@ -20,7 +20,7 @@ const limpar = () => {
     display.innerHTML = expressao; // atualizando o display
 }
 
-// adicionando numeros ao display
+// Adicionando numeros ao display
 const numero = (num) => { 
     if (expressao == 0){
         expressao = num;
